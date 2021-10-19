@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://media.giphy.com/media/M7gtacN7aPNsc/giphy.gif">
+</p>
+
 # Hello, I'm Luke 👋
 
 I'm a **frontend web developer** living in Poland.
