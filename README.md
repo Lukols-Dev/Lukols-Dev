@@ -6,6 +6,8 @@
 
 I'm a **frontend web developer** living in Poland.
 
+Working as an automation and robotics programmer in the automotive industry has taught me how to be part of large projects for most global brands: Mercedes, Ford, Volkswagen, Porsche, Jaguar. The pressure of outcome and time requires me to share information accurately and have excellent time and budget management skills. Working with multiple technology departments, whose goals may not necessarily coincide, requires negotiation skills and the ability to find compromises. With this proven experience, I am building my career as a frontend web developer.
+
 # Contacts
 
 :sparkling_heart: Checkout my personal website: https://lukols.com/ <br/>
