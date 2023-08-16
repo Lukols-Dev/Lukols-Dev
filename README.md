@@ -14,6 +14,7 @@ I believe that NFT is not just pictures, it is more than that.
 :sparkling_heart: Checkout my personal website: https://lukols.com/ <br/>
 :e-mail: Contact me: [lukols.dev@gmail.com](mailto:lukols.dev@gmail.com) <br/>
 :necktie: My LinkedIn: https://www.linkedin.com/in/lukols/ <br/>
+🥷 My Blog: [NextNinja.pl](https://www.nextninja.pl/) <br/>
 
 # Skill Set
 
