@@ -1,20 +1,34 @@
-<p align="center">
-<img src="https://github.com/Lukols-Dev/Lukols-Dev/assets/57043892/10c9eea9-f7e9-42a1-aea9-bda22d8698be">
-</p>
+# Łukasz Olszewski
 
-# Hello, I'm Lukols 👋
+Software engineer, 7 years in systems where failure has consequences -
+industrial automation, then production systems end-to-end, now AI/ML
+and GenAI in Python.
 
-I'm a **Full Stack Blockchain Developer** living in Poland.
+I work on the layer that decides whether a model is fit to ship: data
+quality, validation, measurement, and a hard boundary around what the
+model is allowed to decide.
 
-I am a Full Stack Developer who also fell in love with blockchain technology. My beloved technology is React. 
-I believe that NFT is not just pictures, it is more than that.
+**The LLM describes. The code decides.**
 
-# Contacts
+## What I'm building
 
-:sparkling_heart: Checkout my personal website: https://lukols.com/ <br/>
-:e-mail: Contact me: [lukols.dev@gmail.com](mailto:lukols.dev@gmail.com) <br/>
-:necktie: My LinkedIn: https://www.linkedin.com/in/lukols/ <br/>
-🥷 My Blog: [NextNinja.pl](https://www.nextninja.pl/) <br/>
+**[NeuroFace](https://www.neuroface.pl/)** - computer vision for facial nerve palsy assessment,
+architected against MDR / ISO 14971 requirements.
 
-# Skill Set
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,styledcomponents,react,redux,nextjs,nodejs,express,firebase,mongodb,jest,materialui,vercel,heroku,threejs,git,postman,ipfs,docker,figma&perline=5)](https://skillicons.dev)
+**[Enkaris](https://www.enkaris.com/)** - AI-native workspace for business finance. Retrieval over
+client financial data; the model finds and describes, the code does the
+arithmetic. In production with paying customers.
+
+## Stack
+
+**AI/ML** - Python · PyTorch · OpenCV · MediaPipe · Qwen2.5-VL · Pydantic · FastAPI
+**GenAI** - RAG · embeddings · pgvector · Hugging Face · structured outputs
+**Engineering** - PostgreSQL · Docker · GitHub Actions · pytest · mypy strict
+
+Previously: TypeScript (Next.js, NestJS, React), Java/Spring, Solidity, PLC
+
+## Contact
+
+📧 lukols.dev@gmail.com
+💼 linkedin.com/in/lukols
+🌐 lukols.com
