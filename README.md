@@ -22,7 +22,9 @@ arithmetic. In production with paying customers.
 ## Stack
 
 **AI/ML** - Python · PyTorch · OpenCV · MediaPipe · Qwen2.5-VL · Pydantic · FastAPI
+
 **GenAI** - RAG · embeddings · pgvector · Hugging Face · structured outputs
+
 **Engineering** - PostgreSQL · Docker · GitHub Actions · pytest · mypy strict
 
 Previously: TypeScript (Next.js, NestJS, React), Java/Spring, Solidity, PLC
@@ -30,5 +32,7 @@ Previously: TypeScript (Next.js, NestJS, React), Java/Spring, Solidity, PLC
 ## Contact
 
 📧 lukols.dev@gmail.com
+
 💼 linkedin.com/in/lukols
+
 🌐 lukols.com
